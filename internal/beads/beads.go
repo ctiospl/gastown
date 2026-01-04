@@ -1126,11 +1126,19 @@ func AgentBeadID(rig, role, name string) string {
 }
 
 // MayorBeadID returns the Mayor agent bead ID.
+//
+// Deprecated: Use MayorBeadIDTown() for town-level beads (hq- prefix).
+// This function returns "gt-mayor" which is for rig-level storage.
+// Town-level agents like Mayor should use the hq- prefix.
 func MayorBeadID() string {
 	return "gt-mayor"
 }
 
 // DeaconBeadID returns the Deacon agent bead ID.
+//
+// Deprecated: Use DeaconBeadIDTown() for town-level beads (hq- prefix).
+// This function returns "gt-deacon" which is for rig-level storage.
+// Town-level agents like Deacon should use the hq- prefix.
 func DeaconBeadID() string {
 	return "gt-deacon"
 }
