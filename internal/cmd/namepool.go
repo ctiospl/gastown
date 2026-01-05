@@ -7,9 +7,9 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/steveyegge/gastown/internal/config"
-	"github.com/steveyegge/gastown/internal/polecat"
-	"github.com/steveyegge/gastown/internal/workspace"
+	"github.com/ctiospl/gastown/internal/config"
+	"github.com/ctiospl/gastown/internal/polecat"
+	"github.com/ctiospl/gastown/internal/workspace"
 )
 
 var (

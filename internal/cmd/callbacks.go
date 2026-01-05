@@ -7,11 +7,11 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/steveyegge/gastown/internal/beads"
-	"github.com/steveyegge/gastown/internal/mail"
-	"github.com/steveyegge/gastown/internal/style"
-	"github.com/steveyegge/gastown/internal/townlog"
-	"github.com/steveyegge/gastown/internal/workspace"
+	"github.com/ctiospl/gastown/internal/beads"
+	"github.com/ctiospl/gastown/internal/mail"
+	"github.com/ctiospl/gastown/internal/style"
+	"github.com/ctiospl/gastown/internal/townlog"
+	"github.com/ctiospl/gastown/internal/workspace"
 )
 
 // Callback message subject patterns for routing.

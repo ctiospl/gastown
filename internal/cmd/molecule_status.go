@@ -9,9 +9,9 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/steveyegge/gastown/internal/beads"
-	"github.com/steveyegge/gastown/internal/style"
-	"github.com/steveyegge/gastown/internal/workspace"
+	"github.com/ctiospl/gastown/internal/beads"
+	"github.com/ctiospl/gastown/internal/style"
+	"github.com/ctiospl/gastown/internal/workspace"
 )
 
 // Note: Agent field parsing is now in internal/beads/fields.go (AgentFields, ParseAgentFieldsFromDescription)

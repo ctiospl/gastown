@@ -7,10 +7,10 @@ import (
 	"sort"
 
 	"github.com/spf13/cobra"
-	"github.com/steveyegge/gastown/internal/config"
-	"github.com/steveyegge/gastown/internal/constants"
-	"github.com/steveyegge/gastown/internal/style"
-	"github.com/steveyegge/gastown/internal/workspace"
+	"github.com/ctiospl/gastown/internal/config"
+	"github.com/ctiospl/gastown/internal/constants"
+	"github.com/ctiospl/gastown/internal/style"
+	"github.com/ctiospl/gastown/internal/workspace"
 )
 
 // Account command flags

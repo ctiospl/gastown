@@ -10,11 +10,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/steveyegge/gastown/internal/claude"
-	"github.com/steveyegge/gastown/internal/config"
-	"github.com/steveyegge/gastown/internal/constants"
-	"github.com/steveyegge/gastown/internal/rig"
-	"github.com/steveyegge/gastown/internal/tmux"
+	"github.com/ctiospl/gastown/internal/claude"
+	"github.com/ctiospl/gastown/internal/config"
+	"github.com/ctiospl/gastown/internal/constants"
+	"github.com/ctiospl/gastown/internal/rig"
+	"github.com/ctiospl/gastown/internal/tmux"
 )
 
 // Common errors

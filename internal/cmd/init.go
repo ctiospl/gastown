@@ -7,9 +7,9 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/steveyegge/gastown/internal/git"
-	"github.com/steveyegge/gastown/internal/rig"
-	"github.com/steveyegge/gastown/internal/style"
+	"github.com/ctiospl/gastown/internal/git"
+	"github.com/ctiospl/gastown/internal/rig"
+	"github.com/ctiospl/gastown/internal/style"
 )
 
 var initForce bool

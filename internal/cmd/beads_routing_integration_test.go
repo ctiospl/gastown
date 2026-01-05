@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/steveyegge/gastown/internal/beads"
+	"github.com/ctiospl/gastown/internal/beads"
 )
 
 // setupRoutingTestTown creates a minimal Gas Town with multiple rigs for testing routing.

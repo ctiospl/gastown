@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/steveyegge/gastown/internal/mrqueue"
+	"github.com/ctiospl/gastown/internal/mrqueue"
 )
 
 // MQEventSource reads MQ lifecycle events from mq_events.jsonl

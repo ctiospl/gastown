@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/steveyegge/gastown/internal/mail"
-	"github.com/steveyegge/gastown/internal/tmux"
+	"github.com/ctiospl/gastown/internal/mail"
+	"github.com/ctiospl/gastown/internal/tmux"
 )
 
 // PendingSpawn represents a polecat that has been spawned but not yet triggered.

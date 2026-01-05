@@ -8,8 +8,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/steveyegge/gastown/internal/session"
-	"github.com/steveyegge/gastown/internal/tmux"
+	"github.com/ctiospl/gastown/internal/session"
+	"github.com/ctiospl/gastown/internal/tmux"
 )
 
 // OrphanSessionCheck detects orphaned tmux sessions that don't match

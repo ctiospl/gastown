@@ -3,7 +3,7 @@ package feed
 
 import (
 	"github.com/charmbracelet/lipgloss"
-	"github.com/steveyegge/gastown/internal/constants"
+	"github.com/ctiospl/gastown/internal/constants"
 )
 
 // Color palette

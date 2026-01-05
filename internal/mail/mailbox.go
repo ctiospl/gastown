@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/steveyegge/gastown/internal/beads"
+	"github.com/ctiospl/gastown/internal/beads"
 )
 
 // timeNow is a function that returns the current time. It can be overridden in tests.

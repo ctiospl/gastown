@@ -6,7 +6,7 @@ import (
 	"sort"
 
 	"github.com/spf13/cobra"
-	"github.com/steveyegge/gastown/internal/workspace"
+	"github.com/ctiospl/gastown/internal/workspace"
 )
 
 // townCycleSession is the --session flag for town next/prev commands.
